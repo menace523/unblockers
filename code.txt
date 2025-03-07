@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menace Unblockers</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: white;
+            padding: 15px 20px;
+            text-align: center;
+        }
+
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #444;
+            padding: 12px;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 12px 18px;
+            margin: 0 15px;
+        }
+
+        nav a:hover {
+            background-color: #555;
+        }
+
+        main {
+            padding: 20px;
+            background-color: white;
+            margin: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        footer {
+            text-align: center;
+            padding: 12px;
+            background-color: #333;
+            color: white;
+        }
+
+        .cta-button {
+            display: inline-block;
+            background-color: #0066cc;
+            color: white;
+            padding: 10px 20px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .cta-button:hover {
+            background-color: #005bb5;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        ul li {
+            padding: 8px;
+            margin: 5px 0;
+            background-color: #f9f9f9;
+            border-radius: 4px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to Menace Unblockers!</h1>
+    <p>Your gateway to unrestricted internet access. Bypass any block and surf freely.</p>
+</header>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#">How It Works</a>
+    <a href="#">Pricing</a>
+    <a href="#">Support</a>
+</nav>
+
+<main>
+    <h2>Why Choose Menace Unblockers?</h2>
+    <p>At Menace Unblockers, we provide fast and reliable services to help you bypass online restrictions. Whether you need to access websites, social media, or streaming services, we have you covered.</p>
+
+    <h3>Our Services:</h3>
+    <ul>
+        <li>Access Blocked Websites</li>
+        <li>Unblock Social Media Platforms</li>
+        <li>Bypass Geo-Restrictions for Streaming Services</li>
+        <li>Secure and Private Internet Browsing</li>
+        <li>Fast and Reliable Connection</li>
+    </ul>
+
+    <h3>How It Works:</h3>
+    <p>Using Menace Unblockers is simple! Just sign up, connect to our servers, and start accessing any restricted content. Whether you're in a region with heavy censorship or just want to access blocked websites, our services will help you get the content you need.</p>
+
+    <a href="#" class="cta-button">Start Unblocking Now</a>
+</main>
+
+<footer>
+    <p>&copy; 2025 Menace Unblockers</p>
+</footer>
+
+</body>
+</html>
